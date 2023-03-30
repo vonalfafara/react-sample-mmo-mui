@@ -56,9 +56,6 @@ const Game = () => {
               <Typography variant="p" component="p">
                 Release Date: {game.release_date}
               </Typography>
-              <Typography variant="p" component="p">
-                Genre: {game.genre}
-              </Typography>
             </Box>
           </Container>
         </>
